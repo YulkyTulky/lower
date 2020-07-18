@@ -1,0 +1,9 @@
+Package: com.yulkytulky.lower
+Name: lower
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: lowercase all visible text everywhere on your iphone! (mostly, some text is impossible to lowercase)
+Maintainer: YulkyTulky
+Author: YulkyTulky
+Section: Tweaks
